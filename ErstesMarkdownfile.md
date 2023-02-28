@@ -14,7 +14,6 @@ public class HalloWelt(
 )
 ````
 
-
 ## Terminalbefehle in Windows dokumentieren
 Auflisten eines Verzeichnisses
 ````cmd
