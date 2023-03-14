@@ -20,4 +20,11 @@ HTML Dateien haben die Dateiendung `.html` oder `.htm`
 - in der Regel kostenpflichtig
 - Software übernimmt die erstellung der HTML Qulltexte
 - Inhalte werden zusammengeklickt
-- 
+- Funktionen auf Anbieter beschränkt
+
+### Z.B.
+- Jimdoo
+- Joomla
+- 1und1 (integriert)
+- strato (integriert)
+- google (google wegsites)
