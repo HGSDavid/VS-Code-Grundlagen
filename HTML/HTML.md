@@ -28,3 +28,22 @@ HTML Dateien haben die Dateiendung `.html` oder `.htm`
 - 1und1 (integriert)
 - strato (integriert)
 - google (google wegsites)
+
+## Grundstruktur 
+````html
+<!DOCTYPE html>
+<html>
+    <head>
+       <!-- Metainformationen wie Titel, Suchmaschineninfos usw... -->
+    </head>
+
+    <body>
+        <!-- Seiteninhalt -->
+    </body>
+</html>
+````
+
+## Überschriften 
+Überschriften werden mit ````<h1>```` erstellt unterüberschriften dementsprechend mit ````<h2>```` und so weiter. 
+
+## Strukturieren
