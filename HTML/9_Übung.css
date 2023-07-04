@@ -1,1 +1,5 @@
-< !DOCTYPE html><html><body><h1 style="color:blue;">A Blue Heading</h1><p style="color:red;">A red paragraph.</p></body></html>
+body {
+
+    background-image: url("/VS-Code-Grundlagen/HTML/Bilder/Dajana.jpg");
+
+}
